@@ -1,2 +1,2 @@
 # python-project_01
- My first project while learning python 
+ A console program that finds, a definition for a word you enter. 
